@@ -139,9 +139,9 @@ dotnet test
 
 ## 👤 Author
 
-**[Your Name]** – Backend Engineer (C# / Python / FastAPI)  
-📍 Based in Nigeria | Aspiring to relocate to Europe or North America  
-💼 [LinkedIn](https://linkedin.com/) • [GitHub](https://github.com/yourusername)
+**Adedamola Ajayi** – Backend Engineer (C# / Python / FastAPI)  
+📍 Based in Nigeria | Available for remote roles and relocation opportunities in Europe or North America  
+💼 [LinkedIn](https://www.linkedin.com/in/adedamolaajayi/) • [GitHub](https://github.com/damolaajayi)
 
 ---
 
