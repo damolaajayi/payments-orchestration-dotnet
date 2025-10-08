@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\guards\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\events\\paymentrefunded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\events\\paymentfailed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\events\\paymentcaptured.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\events\\paymentauthorized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\entities\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\abstractions\\ihasdomainevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\abstractions\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7980FDC6-17F8-4C2D-BF02-C9AFBC7B082B}|..\\Payments.Domain\\Payments.Domain.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.domain\\valueobjects\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E32A40-27D8-4186-AB49-C20E320DFC24}|..\\Payments.Application\\Payments.Application.csproj|c:\\users\\adedamolaajayi\\source\\repos\\payment-orchestration\\src\\payments.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentFailed.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Events\\PaymentFailed.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Events\\PaymentFailed.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Events\\PaymentFailed.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Events\\PaymentFailed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:51:34.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentRefunded.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Events\\PaymentRefunded.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Events\\PaymentRefunded.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Events\\PaymentRefunded.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Events\\PaymentRefunded.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:51:25.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Guards\\Guard.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Guards\\Guard.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Guards\\Guard.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Guards\\Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:50:03.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentCaptured.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Events\\PaymentCaptured.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Events\\PaymentCaptured.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Events\\PaymentCaptured.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Events\\PaymentCaptured.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:51:13.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentAuthorized.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Events\\PaymentAuthorized.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Events\\PaymentAuthorized.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Events\\PaymentAuthorized.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Events\\PaymentAuthorized.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:50:59.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Enums\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:50:23.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Refund.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Entities\\Refund.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Entities\\Refund.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Entities\\Refund.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Entities\\Refund.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:50:45.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:50:36.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IHasDomainEvents.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Abstractions\\IHasDomainEvents.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Abstractions\\IHasDomainEvents.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Abstractions\\IHasDomainEvents.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Abstractions\\IHasDomainEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:49:25.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Abstractions\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Abstractions\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Abstractions\\IDomainEvent.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Abstractions\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:49:06.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DomainEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Abstractions\\DomainEntity.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\Abstractions\\DomainEntity.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\Abstractions\\DomainEntity.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\Abstractions\\DomainEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:49:36.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\ValueObjects\\Money.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\ValueObjects\\Money.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\ValueObjects\\Money.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\ValueObjects\\Money.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:53:03.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\ValueObjects\\Currency.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Domain\\ValueObjects\\Currency.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Domain\\ValueObjects\\Currency.cs",
+              "RelativeToolTip": "..\\Payments.Domain\\ValueObjects\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:52:55.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Payments.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\Payment-Orchestration\\src\\Payments.Application\\Class1.cs",
+              "RelativeToolTip": "..\\Payments.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:20:38.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
